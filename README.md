@@ -75,11 +75,15 @@ Make sure that you install this prerequisite to make it work.
    ```sh
    python kb_cli.py init
    ```
-3. Create Ingest Data
+3. Create Sync Job
+   ```sh
+   python kb_cli.py create_job
+   ```
+4. Create Ingest Data
    ```sh
    python kb_cli.py ingest "Transformers revolutionized NLP" \--source=research --category=ml --importance=5
    ```
-4. Find semantic search
+5. Find semantic search
    ```sh
    python kb_cli.py search "AI" --category=ml
    ```
