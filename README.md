@@ -93,4 +93,4 @@ Make sure that you install this prerequisite to make it work.
 ### Video Presentation
 Here's the video presentation of CLI MindsDB: 
 <br> 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi//0.jpg)]()
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tAXSHTLhkqg/0.jpg)](https://www.youtube.com/watch?v=tAXSHTLhkqg)
