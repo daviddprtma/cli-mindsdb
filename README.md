@@ -6,7 +6,7 @@
 </a>
 <h3 align="center">CLI MindsDB</h3>
 <p align="center">
-A CLI Mindsdb tool to automate the process for semantic search and metadata handling
+A CLI Mindsdb tool to automate the process for Knowledge Base (KB)
 
 
   
@@ -19,7 +19,7 @@ A CLI Mindsdb tool to automate the process for semantic search and metadata hand
 
 MindsDB enables humans, AI, agents, and applications to get highly accurate answers across disparate data sources and types. With this technology, we can make the complex process to be loveable and easy to handling by just create the data, store the data & make mindsdb process it from behind it. 
 
-CLI Mindsdb help you to automate the process from create knowledge base, ingest the data, do semantic search, execute mindsdb query, and create to sync a jon all in one process by just called the command that you want to process it by a second.🔥
+CLI Mindsdb help you to automate the process from create knowledge base, ingest the data, do semantic search, execute mindsdb query, and create to sync a job all in one process by just called the command that you want to process it by a second.🔥
 ### Built With
 
 - [MindsDB](https://mindsdb.com/)
